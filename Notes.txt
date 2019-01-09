@@ -1,0 +1,27 @@
+-----------------------------
+v1
+b - let go of both
+space - let go one
+right click - pull in
+arms connect to the walls on touch
+don't attach to mouse position
+sometimes don't let go as they instantly attach again
+connected by springs but the centering is off
+-------------------------------
+v2
+arms now follow the cursor
+right click lets go of all arms
+if both arms attached left click picks up the first attached arm
+can't pull yourself in
+arms follow the body when not attached instead of flapping about
+-------------------------------
+v3
+new ui overlay with tracking on time complete and collectables
+hazards added that kill you and respawn at the start
+-----------------------------------
+v4
+Pressure plates that can be linked to doors or trigger other things
+Can change what triggers the plates player/objects and make a weight requirement
+also can flip between must be held down or one time press
+---------------------------------
+v5
